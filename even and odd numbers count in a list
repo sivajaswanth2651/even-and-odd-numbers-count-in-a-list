@@ -1,0 +1,10 @@
+n=[2,5,9,6,8]
+ec=0
+oc=0
+for i in n:
+if(i%2==0):
+	print(i "is an even number")
+	ec=ec+1
+else:
+	print(i "is an odd number")
+	oc=oc+1
